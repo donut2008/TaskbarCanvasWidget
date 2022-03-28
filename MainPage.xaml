@@ -14,5 +14,6 @@
         </InkToolbar>
         <InkCanvas x:Name="CanvasWidget"/>
     </Grid>
-    <!--sample comment-->
+    <!--sample comment
+    edit 1-->
 </Page>
