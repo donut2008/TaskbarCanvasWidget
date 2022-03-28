@@ -1,5 +1,5 @@
 ﻿<Page
-    x:Class="TaskbarCanvasWidget.MainPage"
+    x:Class="TaskbarCanvasWidget.Settings"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:TaskbarCanvasWidget"
@@ -9,6 +9,6 @@
     xmlns:controls="using:Microsoft.UI.Xaml.Controls"
     controls:BackdropMaterial.ApplyToRootOrPageBackground="True">
     <Grid>
-        
+        <TextBlock Style="{StaticResource SubtitleTextBlockStyle}"></TextBlock>
     </Grid>
 </Page>
