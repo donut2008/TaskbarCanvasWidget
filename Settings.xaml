@@ -31,7 +31,7 @@
                     Style="{StaticResource CaptionTextBlockStyle}"/>
             </StackPanel>
         </Border>
-        <TextBlock Style="{StaticResource SubtitleTextBlockStyle}">Settings</TextBlock>
+        <TextBlock Style="{StaticResource TitleTextBlockStyle}">Settings</TextBlock>
         </StackPanel>
     </Grid>
 </Page>
