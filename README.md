@@ -1,2 +1,2 @@
 # TaskbarCanvasWidget
-taskbar canvas widget, part of GlowTaskbar
+taskbar canvas widget, part of glowbar
